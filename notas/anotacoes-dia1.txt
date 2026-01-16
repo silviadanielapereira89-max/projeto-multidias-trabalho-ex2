@@ -1,0 +1,3 @@
+Anotações do Dia 1
+- Estrutura do projeto criada
+- Pastas organizadas
